@@ -29,3 +29,14 @@ Here is the breakdown of the dataset
 | NorthITM | Old Irish Grid Reference NORTH |
 | EastIG |  Cartesian co-ordinates - Easting |
 | NorthIG |  Cartesian co-ordinates - Northing |
+
+## Design 
+## Idea For the API's URL
+
+### Galway Cities Car Park Location
+
+From here you can can get the location of the specific Car Park you are looking for, for example given the URL: 
+<<< *http://galwaycarparks.ie/location/carparklocation* >>> where you have "carparklocation" will be your desired location
+
+Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered
+
