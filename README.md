@@ -1,6 +1,6 @@
 # DataRepProject
 
-## Galway City Car Parking Locations
+### Galway City Car Parking Locations
 
 ### Shane Gleeson
 
