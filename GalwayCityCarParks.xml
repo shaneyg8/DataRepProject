@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <X>-9.053499750875776</X>
+        <Y>53.273082469830108</Y>
+        <OBJECTID>1</OBJECTID>
+        <NAME>Market St</NAME>
+        <TYPE>Pay/Surface Carpark</TYPE>
+        <NO_SPACES>88</NO_SPACES>
+        <Lat>53.273</Lat>
+        <Long>-9.054</Long>
+        <EastITM>529691.955</EastITM>
+        <NorthITM>725294.803</NorthITM>
+        <EastIG>129726.012</EastIG>
+        <NorthIG>225265.639</NorthIG>
+    </0>
+    <1>
+        <X>-9.054503903368941</X>
+        <Y>53.270521155078541</Y>
+        <OBJECTID>2</OBJECTID>
+        <NAME>Jurys Hotel</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>348</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.055</Long>
+        <EastITM>529620.784</EastITM>
+        <NorthITM>725010.839</NorthITM>
+        <EastIG>129654.828</EastIG>
+        <NorthIG>224981.613</NorthIG>
+    </1>
+    <2>
+        <X>-9.056677150391952</X>
+        <Y>53.273979585968917</Y>
+        <OBJECTID>3</OBJECTID>
+        <NAME>Gaol Rd / Cathedral</NAME>
+        <TYPE>Pay/Surface Carpark</TYPE>
+        <NO_SPACES>161</NO_SPACES>
+        <Lat>53.274</Lat>
+        <Long>-9.057</Long>
+        <EastITM>529481.534</EastITM>
+        <NorthITM>725397.739</NorthITM>
+        <EastIG>129515.546</EastIG>
+        <NorthIG>225368.595</NorthIG>
+    </2>
+    <3>
+        <X>-9.051106477936496</X>
+        <Y>53.26948802216706</Y>
+        <OBJECTID>4</OBJECTID>
+        <NAME>Harbour</NAME>
+        <TYPE>Pay/Surface Carpark</TYPE>
+        <NO_SPACES></NO_SPACES>
+        <Lat>53.27</Lat>
+        <Long>-9.052</Long>
+        <EastITM>529845.677</EastITM>
+        <NorthITM>724892.562</NorthITM>
+        <EastIG>129879.77</EastIG>
+        <NorthIG>224863.312</NorthIG>
+    </3>
+    <4>
+        <X>-9.049571233949168</X>
+        <Y>53.274731667902756</Y>
+        <OBJECTID>5</OBJECTID>
+        <NAME>Eyre Square Centre</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>452</NO_SPACES>
+        <Lat>53.275</Lat>
+        <Long>-9.05</Long>
+        <EastITM>529956.637</EastITM>
+        <NorthITM>725474.425</NorthITM>
+        <EastIG>129990.751</EastIG>
+        <NorthIG>225445.3</NorthIG>
+    </4>
+    <5>
+        <X>-9.042891390678891</X>
+        <Y>53.273523509119734</Y>
+        <OBJECTID>6</OBJECTID>
+        <NAME>Radisson Hotel</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>260</NO_SPACES>
+        <Lat>53.274</Lat>
+        <Long>-9.043</Long>
+        <EastITM>530400.129</EastITM>
+        <NorthITM>725333.491</NorthITM>
+        <EastIG>130434.34</EastIG>
+        <NorthIG>225304.339</NorthIG>
+    </5>
+    <6>
+        <X>-9.045248691741552</X>
+        <Y>53.273548515714353</Y>
+        <OBJECTID>7</OBJECTID>
+        <NAME>Fairgreen House</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>400</NO_SPACES>
+        <Lat>53.274</Lat>
+        <Long>-9.046</Long>
+        <EastITM>530242.966</EastITM>
+        <NorthITM>725338.57</NorthITM>
+        <EastIG>130277.142</EastIG>
+        <NorthIG>225309.419</NorthIG>
+    </6>
+    <7>
+        <X>-9.048590141985041</X>
+        <Y>53.270976202486978</Y>
+        <OBJECTID>8</OBJECTID>
+        <NAME>Docks</NAME>
+        <TYPE>Pay/Surface Carpark</TYPE>
+        <NO_SPACES>89</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.049</Long>
+        <EastITM>530015.932</EastITM>
+        <NorthITM>725055.66</NorthITM>
+        <EastIG>130050.06</EastIG>
+        <NorthIG>225026.446</NorthIG>
+    </7>
+    <8>
+        <X>-9.049922268143415</X>
+        <Y>53.276011826480037</Y>
+        <OBJECTID>9</OBJECTID>
+        <NAME>Corrib Centre</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>580</NO_SPACES>
+        <Lat>53.276</Lat>
+        <Long>-9.051</Long>
+        <EastITM>529935.321</EastITM>
+        <NorthITM>725617.189</NorthITM>
+        <EastIG>129969.43</EastIG>
+        <NorthIG>225588.095</NorthIG>
+    </8>
+    <9>
+        <X>-9.050566329174679</X>
+        <Y>53.278377120598336</Y>
+        <OBJECTID>10</OBJECTID>
+        <NAME>Dyke Road</NAME>
+        <TYPE>Pay/Surface Carpark</TYPE>
+        <NO_SPACES>510</NO_SPACES>
+        <Lat>53.279</Lat>
+        <Long>-9.051</Long>
+        <EastITM>529896.241</EastITM>
+        <NorthITM>725880.965</NorthITM>
+        <EastIG>129930.341</EastIG>
+        <NorthIG>225851.928</NorthIG>
+    </9>
+    <10>
+        <X>-9.054235838671511</X>
+        <Y>53.273851566152011</Y>
+        <OBJECTID>11</OBJECTID>
+        <NAME>Bowling Green</NAME>
+        <TYPE>Pay/Surface Carpark (short stay)</TYPE>
+        <NO_SPACES>40</NO_SPACES>
+        <Lat>53.274</Lat>
+        <Long>-9.055</Long>
+        <EastITM>529644.128</EastITM>
+        <NorthITM>725381.091</NorthITM>
+        <EastIG>129678.175</EastIG>
+        <NorthIG>225351.945</NorthIG>
+    </10>
+    <11>
+        <X>-9.057652301183115</X>
+        <Y>53.271078228829353</Y>
+        <OBJECTID>12</OBJECTID>
+        <NAME>Mill St</NAME>
+        <TYPE>Pay/Surface Carpark (short stay)</TYPE>
+        <NO_SPACES>82</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.058</Long>
+        <EastITM>529411.726</EastITM>
+        <NorthITM>725075.918</NorthITM>
+        <EastIG>129445.724</EastIG>
+        <NorthIG>225046.705</NorthIG>
+    </11>
+    <12>
+        <X>-9.073338410299071</X>
+        <Y>53.259609833567403</Y>
+        <OBJECTID>13</OBJECTID>
+        <NAME>Salthill</NAME>
+        <TYPE>Surface Carpark (free parking)</TYPE>
+        <NO_SPACES></NO_SPACES>
+        <Lat>53.26</Lat>
+        <Long>-9.074</Long>
+        <EastITM>528346.431</EastITM>
+        <NorthITM>723815.637</NorthITM>
+        <EastIG>128380.202</EastIG>
+        <NorthIG>223786.148</NorthIG>
+    </12>
+    <13>
+        <X>-9.076039760436448</X>
+        <Y>53.259010763215024</Y>
+        <OBJECTID>14</OBJECTID>
+        <NAME>Salthill</NAME>
+        <TYPE>Surface Carpark (free parking)</TYPE>
+        <NO_SPACES></NO_SPACES>
+        <Lat>53.259</Lat>
+        <Long>-9.077</Long>
+        <EastITM>528165.221</EastITM>
+        <NorthITM>723751.7</NorthITM>
+        <EastIG>128198.954</EastIG>
+        <NorthIG>223722.195</NorthIG>
+    </13>
+    <14>
+        <X>-9.047384993904027</X>
+        <Y>53.270284114838475</Y>
+        <OBJECTID>15</OBJECTID>
+        <NAME>Harbour Hotel</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>114</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.048</Long>
+        <EastITM>530095.177</EastITM>
+        <NorthITM>724977.485</NorthITM>
+        <EastIG>130129.323</EastIG>
+        <NorthIG>224948.254</NorthIG>
+    </14>
+    <15>
+        <X>-9.049999320469533</X>
+        <Y>53.271260240018094</Y>
+        <OBJECTID>16</OBJECTID>
+        <NAME>Eyre Square Centre</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>480</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.051</Long>
+        <EastITM>529922.415</EastITM>
+        <NorthITM>725088.64</NorthITM>
+        <EastIG>129956.523</EastIG>
+        <NorthIG>225059.432</NorthIG>
+    </15>
+    <16>
+        <X>-9.050677412078851</X>
+        <Y>53.270637163453195</Y>
+        <OBJECTID>17</OBJECTID>
+        <NAME>Hynes Yard</NAME>
+        <TYPE>Multistorey Carpark</TYPE>
+        <NO_SPACES>114</NO_SPACES>
+        <Lat>53.271</Lat>
+        <Long>-9.051</Long>
+        <EastITM>529876.173</EastITM>
+        <NorthITM>725019.986</NorthITM>
+        <EastIG>129910.271</EastIG>
+        <NorthIG>224990.764</NorthIG>
+    </16>
+    <17>
+        <X></X>
+    </17>
+</root>
