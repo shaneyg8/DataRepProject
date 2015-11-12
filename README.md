@@ -38,5 +38,32 @@ Here is the breakdown of the dataset
 From here you can can get the location of the specific Car Park you are looking for, for example given the URL: 
 <<< *http://galwaycarparks.ie/location/carparklocation* >>> where you have "carparklocation" will be your desired location
 
-Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered
+Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered.
 
+This is what will show for this direct link:
+
+|Heading | Description  |
+|---------|:-----------|
+| Name | This will give back the name you've entered for 'carparklocation' |
+| Lat | Latitude of the Car Park |
+| Long | Longitude of the Car Park |
+| EastITM | Old Irish Grid Reference EAST |
+| NorthITM | Old Irish Grid Reference NORTH |
+| EastIG |  Cartesian co-ordinates - Easting |
+| NorthIG |  Cartesian co-ordinates - Northing |
+
+For Example if you are looking for a carpark near the docks the URL would look something like this 
+<<< *http://galwaycarparks.ie/location/Docks* >>> :
+
+```json
+{
+        "NAME": "Docks",
+        "TYPE": "Pay/Surface Carpark",
+        "Lat": "53.271",
+        "Long": "-9.049",
+        "EastITM": "530015.932",
+        "NorthITM": "725055.66",
+        "EastIG": "130050.06",
+        "NorthIG": "225026.446"
+}
+```
