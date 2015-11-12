@@ -155,3 +155,6 @@ If the dataset was tweaked and modified you could add more columns. Columns I wo
 | DELETE | Delete the data at the URI |
 
 
+##Links used for info
+> Wikipedia link - [ITM](https://en.wikipedia.org/wiki/Irish_Transverse_Mercator).
+> Wikipedia link - [Irish grid reference system](https://en.wikipedia.org/wiki/Irish_grid_reference_system).
