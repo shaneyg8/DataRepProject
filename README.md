@@ -48,7 +48,7 @@ Here is an idea I created for the home page of the Galway City Car Parking Locat
 ## Idea For the API's URL
 
 ### 1. Galway Cities Car Park Location
-
+#### Get Method
 From here you can can get the location of the specific Car Park you are looking for, for example given the URL: 
 <<< *http://galwaycarparks.ie/location/[carparklocation]* >>> where you have "[carparklocation]" will be your desired location.
 
@@ -144,6 +144,25 @@ If the dataset was tweaked and modified you could add more columns. Columns I wo
 | TIMES | Here would display the times the car parks would be open |
 | PRICE | This column would display the prices of the car park  |
 
+### 4. Longitude and Latitude
+
+Here you will be redirected to google maps so you can see the actual co-ordinates of the place you've entered.
+Firstly with the URL <<< *http://galwaycarparks.ie/location/[carparklocation]* >>> you will be given the list of the car park you've wanted, then if desired you can be redirected to "Google Maps" by using the co-ordinates given 
+<<< *https://www.google.ie/maps/@53.2831886,-9.0049994,15z* >>> You can also replace the co-ordinates at the end of the link to the information you recieved.
+
+
+ ```json
+{
+        "NAME": "Market St",
+        "Lat": "53.273",
+        "Long": "-9.054",
+        "EastITM": "529691.955",
+        "NorthITM": "725294.803",
+        "EastIG": "129726.012",
+        "NorthIG": "225265.639"
+}
+```
+
 
 ##HTTP Request Methods  
 |Method | Description |
@@ -158,3 +177,7 @@ If the dataset was tweaked and modified you could add more columns. Columns I wo
 ##Links used for info
 > Wikipedia link - [ITM](https://en.wikipedia.org/wiki/Irish_Transverse_Mercator).
 > Wikipedia link - [Irish Grid Reference System](https://en.wikipedia.org/wiki/Irish_grid_reference_system).
+
+#Conclusion
+
+In conclusion from the Dataset above you could use more URL's using the Get and Post methods. If new Car Parks were created or demolished then there would be a change in the dataset. Above covers the main aspect of the dataset and what needs to be provided to the user.
