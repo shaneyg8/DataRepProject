@@ -134,3 +134,13 @@ Here it shows the pay/surface carpark
 | POST | POST Sends data to the server |
 | DELETE | Delete the data at the URI |
 
+##Status Code Definitions
+| Code | Description |    
+|------|:--------|     
+**200** | Ok | 
+**202** | Accepted  |  
+**400** | Bad Request | 
+**404** | Not Found  |  
+**405** | Method Not Allowed | 
+**503** | Service Unavaiable
+
