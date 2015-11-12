@@ -58,7 +58,6 @@ For Example if you are looking for a carpark near the docks the URL would look s
 ```json
 {
         "NAME": "Docks",
-        "TYPE": "Pay/Surface Carpark",
         "Lat": "53.271",
         "Long": "-9.049",
         "EastITM": "530015.932",
