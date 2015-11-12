@@ -31,6 +31,16 @@ Here is the breakdown of the dataset
 | NorthIG |  Cartesian co-ordinates - Northing |
 
 
+##Status Code
+| Code | Description |    
+|------|:--------|     
+**200** | Ok | 
+**202** | Accepted  |  
+**400** | Bad Request | 
+**404** | Not Found  |  
+**405** | Method Not Allowed | 
+**503** | Service Unavaiable |
+
 ## Design 
 ###Home
 Here is an idea I created for the home page of the Galway City Car Parking Locations, here is a simple way to navigate and find your way around through a drop down list of all the locations in Galway City with Car Parks.
@@ -125,6 +135,19 @@ Another example:
 
 Here it shows the pay/surface carpark
 
+## 3. Other Ideas
+
+*If the dataset was tweaked and modified you could add more columns. Columns I would add to the dataset would be
+
+##HTTP Request Methods  
+|Heading | Description |
+|---------|:-----------|
+| GET | GET Retrieves Information from the server |
+| HEAD | HEAD Retrieves response header  |
+| PUT | PUT Sets the data at the URI to request data |
+| POST | POST Sends data to the server |
+| DELETE | Delete the data at the URI |
+
 ##HTTP Request Methods  
 |Method | Description |
 |---------|:-----------|
@@ -134,13 +157,4 @@ Here it shows the pay/surface carpark
 | POST | POST Sends data to the server |
 | DELETE | Delete the data at the URI |
 
-##Status Code
-| Code | Description |    
-|------|:--------|     
-**200** | Ok | 
-**202** | Accepted  |  
-**400** | Bad Request | 
-**404** | Not Found  |  
-**405** | Method Not Allowed | 
-**503** | Service Unavaiable
 
