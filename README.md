@@ -134,7 +134,7 @@ Here it shows the pay/surface carpark
 | POST | POST Sends data to the server |
 | DELETE | Delete the data at the URI |
 
-##Status Code Definitions
+##Status Code
 | Code | Description |    
 |------|:--------|     
 **200** | Ok | 
