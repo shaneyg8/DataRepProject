@@ -32,7 +32,7 @@ Here is the breakdown of the dataset
 
 
 ## Design 
-#Home
+###Home
 Here is an idea I created for the home page of the Galway City Car Parking Locations, here is a simple way to navigate and find your way around through a drop down list of all the locations in Galway City with Car Parks.
 
 ## Idea For the API's URL
