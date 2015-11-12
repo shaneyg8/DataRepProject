@@ -50,7 +50,7 @@ Here is an idea I created for the home page of the Galway City Car Parking Locat
 ### 1. Galway Cities Car Park Location
 #### Get Method
 From here you can can get the location of the specific Car Park you are looking for, for example given the URL: 
-<<< *http://galwaycarparks.ie/location/[carparklocation]* >>> where you have "[carparklocation]" will be your desired location.
+<<<*http://galwaycarparks.ie/location/[carparklocation]*>>> where you have "[carparklocation]" will be your desired location.
 
 Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered.
 
@@ -67,7 +67,7 @@ This is what will show for this direct link:
 | NorthIG |  Cartesian co-ordinates - Northing |
 
 For Example if you are looking for a carpark near the docks the URL would look something like this 
-<<< *http://galwaycarparks.ie/location/Docks* >>> :
+<<<*http://galwaycarparks.ie/location/Docks*>>> :
 
 ```json
 {
@@ -84,7 +84,7 @@ For Example if you are looking for a carpark near the docks the URL would look s
 ### 2. Galway Cities Car Park Spaces
 
 From here you will get access to the information of how many spaces the car park holds and what type of facility you would be entering, example: "TYPE": "Multistorey Carpark" 
-<<< *http://galwaycarparks.ie/location/[carparklocation]/[type]* >>> where you have "[carparklocation]" will be your desired location and where you have [type] will give you back the information on the type of car park it is and also how many spaces the car park holds. 
+<<<*http://galwaycarparks.ie/location/[carparklocation]/[type]*>>> where you have "[carparklocation]" will be your desired location and where you have [type] will give you back the information on the type of car park it is and also how many spaces the car park holds. 
 
 This is what will show for this direct link:
 
@@ -147,8 +147,8 @@ If the dataset was tweaked and modified you could add more columns. Columns I wo
 ### 4. Longitude and Latitude
 
 Here you will be redirected to google maps so you can see the actual co-ordinates of the place you've entered.
-Firstly with the URL <<< *http://galwaycarparks.ie/location/[carparklocation]* >>> you will be given the list of the car park you've wanted, then if desired you can be redirected to "Google Maps" by using the co-ordinates given 
-<<< *https://www.google.ie/maps/@53.2831886,-9.0049994,15z* >>> You can also replace the co-ordinates at the end of the link to the information you recieved.
+Firstly with the URL <<<*http://galwaycarparks.ie/location/[carparklocation]*>>> you will be given the list of the car park you've wanted, then if desired you can be redirected to "Google Maps" by using the co-ordinates given 
+<<<*https://www.google.ie/maps/@53.2831886,-9.0049994,15z*>>> You can also replace the co-ordinates at the end of the link to the information you recieved.
 
 
  ```json
