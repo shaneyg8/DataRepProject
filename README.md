@@ -137,16 +137,13 @@ Here it shows the pay/surface carpark
 
 ## 3. Other Ideas
 
-*If the dataset was tweaked and modified you could add more columns. Columns I would add to the dataset would be
-
-##HTTP Request Methods  
+If the dataset was tweaked and modified you could add more columns. Columns I would add to the dataset would be:
+  
 |Heading | Description |
 |---------|:-----------|
-| GET | GET Retrieves Information from the server |
-| HEAD | HEAD Retrieves response header  |
-| PUT | PUT Sets the data at the URI to request data |
-| POST | POST Sends data to the server |
-| DELETE | Delete the data at the URI |
+| TIMES | Here would display the times the car parks would be open |
+| PRICE | This column would display the prices of the car park  |
+
 
 ##HTTP Request Methods  
 |Method | Description |
