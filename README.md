@@ -30,6 +30,15 @@ Here is the breakdown of the dataset
 | EastIG |  Cartesian co-ordinates - Easting |
 | NorthIG |  Cartesian co-ordinates - Northing |
 
+##HTTP Request Methods  
+|Method | Description |
+|---------|:-----------|
+| GET | Retrieve information from the server |
+| HEAD | Retrieve response header  |
+| POST | Send data to the server |
+| PUT |  Set the data at the URI to the request data |
+| DELETE | Delete the data at the URI |
+
 ## Design 
 ## Idea For the API's URL
 
