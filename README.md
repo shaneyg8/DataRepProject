@@ -84,6 +84,7 @@ For Example if you are looking for a carpark near the docks the URL would look s
 ### 2. Galway Cities Car Park Spaces
 
 From here you will get access to the information of how many spaces the car park holds and what type of facility you would be entering, example: "TYPE": "Multistorey Carpark" 
+
 <<< *http://galwaycarparks.ie/location/[carparklocation]/[type]* >>> where you have "[carparklocation]" will be your desired location and where you have [type] will give you back the information on the type of car park it is and also how many spaces the car park holds. 
 
 This is what will show for this direct link:
