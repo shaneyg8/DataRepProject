@@ -12,7 +12,7 @@ This project is based on the dataset Galway City Car Parking Locations and can b
 The CSV file has 18 rows and 12 columns
 This dataset gives us information about the parking locations in the City of Galway. We are given the location based on their longitude and latitude, the other information we are given is the number of spaces their is to park in.
 
-Here is the breakdown of the dataset
+Here is the breakdown of the dataset:
  
  
 |Heading | Description  |
