@@ -36,7 +36,7 @@ Here is the breakdown of the dataset
 ### 1. Galway Cities Car Park Location
 
 From here you can can get the location of the specific Car Park you are looking for, for example given the URL: 
-<<< *http://galwaycarparks.ie/location/[carparklocation]* >>> where you have "carparklocation" will be your desired location
+<<< *http://galwaycarparks.ie/location/[carparklocation]* >>> where you have "[carparklocation]" will be your desired location.
 
 Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered.
 
@@ -69,20 +69,54 @@ For Example if you are looking for a carpark near the docks the URL would look s
 
 ### 2. Galway Cities Car Park Spaces
 
-From here you will get access to the information of how many spaces the car park holds and what type of facility you would be entering 
-
-
-
-Here a list of car parks will be listed in front of you that are near the location in Galway City you've entered.
+From here you will get access to the information of how many spaces the car park holds and what type of facility you would be entering, example: "TYPE": "Multistorey Carpark" 
+<<< *http://galwaycarparks.ie/location/[carparklocation]/[type]* >>> where you have "[carparklocation]" will be your desired location and where you have [type] will give you back the information on the type of car park it is and also how many spaces the car park holds. 
 
 This is what will show for this direct link:
 
 |Heading | Description  |
 |---------|:-----------|
 | Name | This will give back the name you've entered for 'carparklocation' |
+| Type | What type of car parking facility it is |
+| NO_SPACES | The amount of vehicles the parking facility can hold |
 | Lat | Latitude of the Car Park |
 | Long | Longitude of the Car Park |
 | EastITM | Old Irish Grid Reference EAST |
 | NorthITM | Old Irish Grid Reference NORTH |
 | EastIG |  Cartesian co-ordinates - Easting |
 | NorthIG |  Cartesian co-ordinates - Northing |
+
+For example:
+
+```json
+{
+        "NAME": "Jurys Hotel",
+        "TYPE": "Multistorey Carpark",
+        "NO_SPACES": "348",
+        "Lat": "53.271",
+        "Long": "-9.055",
+        "EastITM": "529620.784",
+        "NorthITM": "725010.839",
+        "EastIG": "129654.828",
+        "NorthIG": "224981.613"
+}
+```
+Above shows the multistorey car park facility and the number of spaces
+
+Another example:
+
+```json
+{
+        "NAME": "Gaol Rd / Cathedral",
+        "TYPE": "Pay/Surface Carpark",
+        "NO_SPACES": "161",
+        "Lat": "53.274",
+        "Long": "-9.057",
+        "EastITM": "529481.534",
+        "NorthITM": "725397.739",
+        "EastIG": "129515.546",
+        "NorthIG": "225368.595"
+}
+```
+
+Here it shows the pay/surface carpark
