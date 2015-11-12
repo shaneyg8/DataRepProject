@@ -157,4 +157,4 @@ If the dataset was tweaked and modified you could add more columns. Columns I wo
 
 ##Links used for info
 > Wikipedia link - [ITM](https://en.wikipedia.org/wiki/Irish_Transverse_Mercator).
-> Wikipedia link - [Irish grid reference system](https://en.wikipedia.org/wiki/Irish_grid_reference_system).
+> Wikipedia link - [Irish Grid Reference System](https://en.wikipedia.org/wiki/Irish_grid_reference_system).
