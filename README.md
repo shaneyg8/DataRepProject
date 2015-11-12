@@ -135,7 +135,7 @@ Another example:
 
 Here it shows the pay/surface carpark
 
-## 3. Other Ideas
+### 3. Other Ideas
 
 If the dataset was tweaked and modified you could add more columns. Columns I would add to the dataset would be:
   
