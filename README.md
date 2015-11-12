@@ -175,8 +175,14 @@ Firstly with the URL <<< *http://galwaycarparks.ie/location/[carparklocation]* >
 
 
 ##Links used for info
+
 > Wikipedia link - [ITM](https://en.wikipedia.org/wiki/Irish_Transverse_Mercator).
+
+
 > Wikipedia link - [Irish Grid Reference System](https://en.wikipedia.org/wiki/Irish_grid_reference_system).
+
+
+> HTTP Request Methods Link - [Click Here](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html).
 
 #Conclusion
 
